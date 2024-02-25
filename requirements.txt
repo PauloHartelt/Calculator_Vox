@@ -6,6 +6,4 @@ pip install numerizer
 
 pip install deep-translator
 
-pip install deep-translator
-
 pip install pyttsx3
